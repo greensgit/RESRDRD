@@ -50,4 +50,8 @@ private void removeKart() {
 	System.out.println("This is Ahmed - working on remove kart");
 }
 
+private void disableKart() {
+System.out.println("This is sujitha - working on disable kart");
+}
+
 }
